@@ -6,7 +6,7 @@ import { ApiService } from './api.service';
   selector: 'app-root',
   template: `
     <h1>
-      Welcome to {{title}}!!
+      Universal {{title}}!!
     </h1>
     <p>{{data}}</p>
   `,
